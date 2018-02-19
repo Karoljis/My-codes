@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Formos</title>
+  </head>
+  <body>
+    <form>
+<fieldset style="width:500px">
+<legend>Jūsų informacija:</legend>
+Vardas: <input type="text">
+<br>
+Paštas: <input type="text">
+<br>
+</fieldset>
+
+<br>
+<fieldset style="width:500px">
+<legend>Apžvalga: </legend>
+Kaip išgirdote apie mus? <select name="isgirsti">
+<option value="1">Google</option> 
+<option value="2">Facebook</option>
+<option value="3">Kita</option> </select><br>
+<br>
+Ar apsilankysite vėl?<br>
+<input type="radio" name="apsilankymas" value="Taip"/>Taip
+<input type="radio" name="apsilankymas" value="Ne"/>Ne
+<input type="radio" name="apsilankymas" value="Galbūt"/>Galbūt<br>
+<br>
+Komentaras:<br>
+<textarea name="komentaras" form="usrform" cols="40" rows="4"></textarea><br>
+<br>
+<input type="checkbox" name"prenumerata" value="True">Noriu užsisakyti naujienas<br>
+<input type="submit" value="Saugoti">
+
+</fieldset>
+</form>
+  </body>
+</html>

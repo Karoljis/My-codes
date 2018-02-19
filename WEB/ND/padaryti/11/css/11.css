@@ -1,0 +1,12 @@
+h1,h2{
+  color: purple;
+  font-family: arial;
+}
+.p1{
+font-style: italic;
+font-family: times;
+}
+.p2{
+  font-family: verdana;
+  color: rgba(82, 72, 76, 0.4);
+}

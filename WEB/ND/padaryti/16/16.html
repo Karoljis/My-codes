@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Formos</title>
+    <link type="text/css" rel="stylesheet" href="css/materialize.css">
+  </head>
+  <body>
+    <div class="row">
+      <form class="col m12">
+
+          <div class="row">
+            <div class="input-field col m6">
+              <input id="name" type="text" class="validate">
+              <label for="name">Jūsų vardas</label>
+            </div>
+            <div class="row">
+              <div class="input-field col m6">
+              <input placeholder="email@gmail.com" id="email" type="text" class="validate">
+              <label for="name">Jūsų el. paštas</label>
+              </div>
+            </div>
+          </div>
+
+          <div class="input-field col m12">
+            <select class="icons">
+              <option value="" disabled selected>Pasirinkite vieną iš variantų:</option>
+              <option value="" data-icon="images/google.jpg" class="left square">Google</option>
+              <option value="" data-icon="images/fb.png" class="left square">Facebook</option>
+              <option value="" data-icon="images/other.jpg" class="left square">Kita</option>
+            </select>
+            <label>Iš kur apie mus sužinojote?</label>
+          </div>
+
+          <label>Ar ketinate vėl sugrįžti?</label>
+            <p>
+              <input name="group1" type="radio" id="taip" />
+              <label for="taip">Taip</label>
+
+              <input name="group1" type="radio" id="ne" />
+              <label for="ne">Ne</label>
+
+              <input name="group1" type="radio" id="gal" />
+              <label for="gal">Galbūt</label>
+            </p>
+
+            <div class="row">
+              <div class="input-field col m12">
+                <input id="input_text" type="text" data-length="180">
+              </input>
+                <label for="comment">Jūsų komentaras:</label>
+              </div>
+            </div>
+
+            <label >Ar norite užsisakyti naujienas?</label>
+            <div class="switch">
+              <label>
+                Ne
+                <input type="checkbox">
+                <span class="lever"></span>
+                Taip
+              </label>
+            </div>
+            <br/>
+            <a class="waves-effect waves-light btn">Išsaugoti</a>
+
+        </form>
+        </div>
+
+
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="js/materialize.min.js"></script>
+    <script>
+      $(document).ready(function() {
+      $('select').material_select();
+      });
+    </script>
+  </body>
+</html>

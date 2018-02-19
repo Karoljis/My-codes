@@ -1,0 +1,55 @@
+@font-face {
+  font-family: test;
+  src:url("../fonts/roboto/Roboto-Light.woff");
+}
+@font-face {
+  font-family: test2;
+  src:url("../fonts/roboto/Roboto-Bold.woff");
+}
+
+.week{
+width: 1070px;
+}
+
+div[class^="day"]{
+float: left;
+height: 150px;
+width: 150px;
+margin: 1px 1px;
+background: silver;
+font-family: test;
+}
+
+div[class^="dayW"]{
+background-color: grey;
+color:red;
+}
+
+.dNumber{
+  padding: 5px 10px;
+
+}
+.name{
+  font-family: test2;
+  margin: 5px;
+}
+
+.event{
+  background-color: yellow;
+  color: Blue;
+  }
+.event2{
+    background-color: orange;
+    color: green;
+    }
+
+.event:hover{
+  position: relative;
+  font-weight: bold;
+  font-size: 20px;
+}
+.event2:hover{
+  position: relative;
+  font-weight: bold;
+  font-size: 20px;
+}

@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\Limonierius\WhoWantsToBeMillionaire\WhoWantsToBeMillionaire\obj\Debug\WhoWantsToBeMillionaire.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Limonierius\WhoWantsToBeMillionaire\WhoWantsToBeMillionaire\obj\Debug\WhoWantsToBeMillionaire.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Limonierius\WhoWantsToBeMillionaire\WhoWantsToBeMillionaire\bin\Debug\WhoWantsToBeMillionaire.exe.config
+C:\Users\pc\Desktop\Limonierius\WhoWantsToBeMillionaire\WhoWantsToBeMillionaire\bin\Debug\WhoWantsToBeMillionaire.exe
+C:\Users\pc\Desktop\Limonierius\WhoWantsToBeMillionaire\WhoWantsToBeMillionaire\bin\Debug\WhoWantsToBeMillionaire.pdb
+C:\Users\pc\Desktop\Limonierius\WhoWantsToBeMillionaire\WhoWantsToBeMillionaire\obj\Debug\WhoWantsToBeMillionaire.exe
+C:\Users\pc\Desktop\Limonierius\WhoWantsToBeMillionaire\WhoWantsToBeMillionaire\obj\Debug\WhoWantsToBeMillionaire.pdb

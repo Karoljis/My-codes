@@ -1,0 +1,47 @@
+.back{
+  background: silver;
+  width: 100%;
+  height: 1000px;
+}
+.front{
+  border: double black;
+  width: 800px;
+  height: 450px;
+  background: white;
+}
+.logo{
+  padding: 20px;
+}
+.navi{
+  list-style-type: none;
+  border-top: 2px solid black;
+  border-bottom: double black;
+  width: 590px;
+  padding: 10px 5px;
+}
+.nuoroda{
+  display: inline-block;
+  margin: 0 10px;
+  font-family: "Goudy Old Style", Garamond, "Big Caslon", serif;
+  letter-spacing: 1px;
+  width: 100px;
+}
+#about{
+  width: 50px;
+}
+a{
+  color:orange;
+}
+a:hover{
+  font-weight: bold;
+}
+.piano{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+p{
+  width: 600px;
+  text-align: center;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  word-spacing: 5px;
+}

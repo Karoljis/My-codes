@@ -1,0 +1,6 @@
+C:\Users\pc\Desktop\VCS\VCS\uzduotis5-5(ciklas)\bin\Debug\uzduotis5-5(ciklas).exe.config
+C:\Users\pc\Desktop\VCS\VCS\uzduotis5-5(ciklas)\bin\Debug\uzduotis5-5(ciklas).exe
+C:\Users\pc\Desktop\VCS\VCS\uzduotis5-5(ciklas)\bin\Debug\uzduotis5-5(ciklas).pdb
+C:\Users\pc\Desktop\VCS\VCS\uzduotis5-5(ciklas)\obj\Debug\uzduotis5-5(ciklas).csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\VCS\VCS\uzduotis5-5(ciklas)\obj\Debug\uzduotis5-5(ciklas).exe
+C:\Users\pc\Desktop\VCS\VCS\uzduotis5-5(ciklas)\obj\Debug\uzduotis5-5(ciklas).pdb

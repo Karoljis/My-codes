@@ -1,0 +1,48 @@
+.back{
+  background: silver;
+  width: 100%;
+  height: 1000px;
+}
+.front{
+  border:  double black;
+  width: 800px;
+  height: 450px;
+  background: white;
+  }
+
+.logo{
+  padding: 20px;
+}
+ul{
+  list-style-type: none;
+  width: 560px;
+  border-top: 2px solid black;
+  border-bottom: double black;
+  padding: 20px 20px 40px 20px;
+}
+li{
+  float: left;
+  font-family: "Goudy Old Style", Garamond, "Big Caslon", serif;
+  letter-spacing: 1px;
+  width: 110px;
+  margin: 0 5px 0 5px;
+}
+a{
+  color:orange;
+}
+a:hover{
+  font-weight: bold;
+}
+.piano{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+#about{
+  width: 70px;
+}
+p{
+  width: 600px;
+  text-align: center;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  word-spacing: 5px;
+}
